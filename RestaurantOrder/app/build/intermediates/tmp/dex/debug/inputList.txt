@@ -1,6 +1,0 @@
-D:\Android.Project\RestaurantOrder\app\build\intermediates\classes\debug
-D:\Android.Project\RestaurantOrder\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-1c85ffa9ca4d58bbfc4727ab28331ac78407c8f3.jar
-D:\Android.Project\RestaurantOrder\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-eecf0ab5fb8d861feec7401954c5c8ceaa0c3ddd.jar
-D:\Android.Project\RestaurantOrder\app\build\intermediates\pre-dexed\debug\classes-439ef11fd4c4e36a9596a481f12db8e28cfd2779.jar
-D:\Android.Project\RestaurantOrder\app\build\intermediates\pre-dexed\debug\classes-2eba1680420ea215dc9b03b5c425e854efc7aa49.jar
-D:\Android.Project\RestaurantOrder\app\build\intermediates\pre-dexed\debug\classes-5c491fd0943ee486840479d3c490ff63198fb010.jar
